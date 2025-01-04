@@ -9,6 +9,8 @@ All content in **syarieffworks** is protected by copyright and licensed under a 
 
 For detailed licensing terms, please refer to [LICENSE.md](https://github.com/syarieffworks/syarieffworks/blob/main/LICENSE.md).
 
+---
+
 Discover inspiration, innovation, and future vision in every work here, creating a space for limitless intellectual and artistic growth.
 
 <!---
