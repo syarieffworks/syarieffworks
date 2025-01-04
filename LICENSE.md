@@ -1,6 +1,6 @@
 # Proprietary License
 
-Copyright © [Tahun] [Nama Pemilik]. All rights reserved.
+Copyright © [2025] [Syarif Abdurrahman]. All rights reserved.
 
 By using or distributing this work, you agree to comply with the terms outlined in this license.
 
